@@ -14,6 +14,7 @@ python --version
 pip --version
 python -m pip install --upgrade pip
 pip --version
+pip install setuptools -U
 pip install protlego
 
 
